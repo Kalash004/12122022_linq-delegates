@@ -1,0 +1,15 @@
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\bin\Debug\net6.0\12122022_delegate+linq.exe
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\bin\Debug\net6.0\12122022_delegate+linq.deps.json
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\bin\Debug\net6.0\12122022_delegate+linq.runtimeconfig.json
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\bin\Debug\net6.0\12122022_delegate+linq.dll
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\bin\Debug\net6.0\12122022_delegate+linq.pdb
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.csproj.AssemblyReference.cache
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.GeneratedMSBuildEditorConfig.editorconfig
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.AssemblyInfoInputs.cache
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.AssemblyInfo.cs
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.csproj.CoreCompileInputs.cache
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.dll
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\refint\12122022_delegate+linq.dll
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.pdb
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\12122022_delegate+linq.genruntimeconfig.cache
+M:\csharp\Middle\12122022_delegate+linq\12122022_delegate+linq\obj\Debug\net6.0\ref\12122022_delegate+linq.dll
