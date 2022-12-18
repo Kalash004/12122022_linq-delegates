@@ -25,7 +25,8 @@ namespace _12122022_delegate_linq
                 new Staff("Jhon","Beckham",200000,Rank.Boss,new DateTime(2000,01,23)),
                 new Staff("Don","Beckham",200000,Rank.Cap,new DateTime(2000,01,23)),
                 new Staff("Azz","Man",2000,Rank.Leutenant,new DateTime(2005,11,23)),
-                new Staff("Zan","Dam",100,Rank.Eights,new DateTime(2007,2,3))
+                new Staff("Zan","Dam",400,Rank.Eights,new DateTime(2007,2,3)),
+                new Staff("Zan","Lam",100,Rank.Eights,new DateTime(2007,1,3))
             };
         }
 
@@ -56,6 +57,24 @@ namespace _12122022_delegate_linq
                 yield return staff;
         }
 
+        public IEnumerable<Staff> OrderByDate()
+        {
+            var z = staff_list.OrderBy(x => x.Started_since);
+            foreach (var staff in z)
+            {
+                yield return staff;
+            }
+        }
+
+        public IEnumerable<Staff> Holiday(String holiday)
+        {
+            var z = staff_list.Where(x => holiday.Equals(x.Name));
+
+            foreach (var staff in z)
+            {
+                yield return staff;
+            }
+        }
     }
 
 
@@ -92,7 +111,7 @@ namespace _12122022_delegate_linq
 
         public override string ToString()
         {
-            return Name + " : " + Surname + " : " + Salary;
+            return Name + " : " + Surname + " : " + Salary+" : "+Rank.ToString()+" : "+Started_since;
         }
     }
 }

@@ -21,12 +21,27 @@
             var pred_answr = Array.FindAll(pred_test, selec);
             foreach (int i in pred_answr)
                 Console.WriteLine(i);
-
+           
 
 
             Firm frm = new Firm();
             foreach (var f in frm.FindMostPayed())
                 Console.WriteLine(f.ToString());   
+
+            Console.WriteLine("Mid salary : "+frm.FindMidSalary());
+
+            foreach (var f in frm.FindThreeSmallestSalary())
+            {
+                Console.WriteLine("-" + f.ToString());
+            }
+
+            Console.WriteLine(frm.FindMidSalaryForRank(Rank.Eights));
+
+            foreach (var f in frm.OrderByDate())
+                Console.WriteLine(f.ToString());
+
+            foreach (var f in frm.Holiday("Azz"))
+                Console.WriteLine(f.ToString());
         }
 
         public static bool Check(int x)

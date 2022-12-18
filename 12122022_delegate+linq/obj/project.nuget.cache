@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SOHBiGILJ9A5rlqVGMuPCrJJ+2XPyPJ4+N31Dzyj7oZZwrChe+K8A6TITZTtxrSIb7xiVnu4nL3WVahO1tRqQw==",
+  "dgSpecHash": "CtPMuzKDDpcaEceBB/oqVgB7vC7w9xcb9bq7xdOwXNhbT3oUnC0OCz23UbzZo0d8HzOgBD2rwcAj2DAIa2teGA==",
   "success": true,
-  "projectFilePath": "M:\\csharp\\Middle\\12122022_delegate+linq\\12122022_delegate+linq\\12122022_delegate+linq.csproj",
+  "projectFilePath": "D:\\Documents\\csharp\\Projects\\12122022\\12122022_linq-delegates\\12122022_delegate+linq\\12122022_delegate+linq.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
